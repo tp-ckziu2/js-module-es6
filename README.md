@@ -1,6 +1,6 @@
 # Moduły JavaScript ES6
 
-> **_W katalogu głównym projektu stwórz katalog `zadania`. W nim umieść każde zadanie w osobnym pliku: `zadanie1`, `zadanie2`, itd. Stosuj nazwy plików oraz funkcji, które są podane w treści zadania._**
+> **_W katalogu głównym projektu stwórz katalog `zadania`. W nim umieść każde zadanie w osobnym katalogu: `zadanie1`, `zadanie2`, itd. Stosuj nazwy plików oraz funkcji, które są podane w treści zadania._**
 
 ## Ćwiczenia z modułami ES6
 
